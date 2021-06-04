@@ -3,11 +3,11 @@
 #include <vex_color.h>
 using namespace vex;
 
-void checkAndStopRollers(vex::color color) {
+/*void checkAndStopRollers(vex::color color) {
   if(color == vex::color::red){
     // STOP ROLLERS
   }
-}
+}*/
 
 void autoTest(){
   Rollers(500);
