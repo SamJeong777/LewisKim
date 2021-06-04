@@ -1,0 +1,12 @@
+#pragma once
+void boardLeft();
+void autoTest();
+void boardRight();
+void sitRight();
+void startAuto();
+void sitLeft();
+void skillsAutoDiscore();
+void sitLeftCenterGoalBeta();
+void sitLeftBetaHomeRow();
+void sitRightCenterGoalBeta1();
+void LeftCenterNew1();
